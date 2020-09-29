@@ -8,6 +8,7 @@ se calcula el factorial multiplicando el numero intruducido y repitiendo el meto
 
 ![d4d1cffb-87b6-4437-b525-42c2eb7e0f39](https://user-images.githubusercontent.com/72090852/94590321-1f402680-024c-11eb-816e-08373cf329cf.jpg)
 
+
 ___________________________________________________________________________________________________________________________________
 Resultados de la compilación del codigo.
 
